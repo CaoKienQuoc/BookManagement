@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\implement\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\implement\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\implement\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\implement\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\models\\publisher\\publisherrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\models\\publisher\\publisherrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\entity\\assigment2prn231context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\entity\\assigment2prn231context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\models\\book\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\models\\book\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\entity\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\entity\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\models\\user\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\models\\user\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\mapper\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\mapper\\bookmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\models\\bookauthor\\bookauthorrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\models\\bookauthor\\bookauthorrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\controllers\\bookauthorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\controllers\\bookauthorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\mapper\\bookauthormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\mapper\\bookauthormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.repository\\models\\bookauthor\\bookauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA4C0D6-E6A7-44EB-BE9E-AE9B533A2EC7}|Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj|solutionrelative:assigment2.prn231.bookstoreapi.repository\\models\\bookauthor\\bookauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\mapper\\publishermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\mapper\\publishermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|c:\\d_tools\\fpt-learn\\hk8\\prn231\\prn231_book-store-api\\assigment2.prn231.bookstoreapi\\assigment2.prn231.bookstoreapi.controler\\mapper\\authormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C8BC9B-31A0-4141-B8E5-02AD15CB2DBB}|Assigment2.PRN231.BookStoreAPI.Controler\\Assigment2.PRN231.BookStoreAPI.Controlers.csproj|solutionrelative:assigment2.prn231.bookstoreapi.controler\\mapper\\authormapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Implement\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Implement\\UnitOfWork.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Implement\\UnitOfWork.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Implement\\UnitOfWork.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:19:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Program.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Program.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Program.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:12.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAgwNoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:12.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:12.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookAuthor.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\BookAuthor.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\BookAuthor.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\BookAuthor.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\BookAuthor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:12.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\appsettings.json",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\appsettings.json",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\appsettings.json",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T08:44:12.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\Book\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\Book\\BookViewModel.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\Book\\BookViewModel.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\Book\\BookViewModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:12.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\DependencyInjection.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\DependencyInjection.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\User.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\User.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Implement\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Implement\\GenericRepository.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Implement\\GenericRepository.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Implement\\GenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:19:25.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublisherRequestModel.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\Publisher\\PublisherRequestModel.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\Publisher\\PublisherRequestModel.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\Publisher\\PublisherRequestModel.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\Publisher\\PublisherRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Assigment2Prn231Context.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\Assigment2Prn231Context.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\Assigment2Prn231Context.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\Assigment2Prn231Context.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Entity\\Assigment2Prn231Context.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:33.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PublisherController.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\PublisherController.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\PublisherController.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\PublisherController.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\PublisherController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAowHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookAuthorMapper.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\BookAuthorMapper.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\BookAuthorMapper.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\BookAuthorMapper.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\BookAuthorMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\User\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\User\\LoginModel.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\User\\LoginModel.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\User\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookAuthorRequestModel.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\BookAuthor\\BookAuthorRequestModel.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\BookAuthor\\BookAuthorRequestModel.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\BookAuthor\\BookAuthorRequestModel.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\BookAuthor\\BookAuthorRequestModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookAuthorController.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\BookAuthorController.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\BookAuthorController.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\BookAuthorController.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Controllers\\BookAuthorController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAUwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookAuthorViewModel.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\BookAuthor\\BookAuthorViewModel.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\BookAuthor\\BookAuthorViewModel.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Models\\BookAuthor\\BookAuthorViewModel.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Repository\\Models\\BookAuthor\\BookAuthorViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PublisherMapper.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\PublisherMapper.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\PublisherMapper.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\PublisherMapper.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\PublisherMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookMapper.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\BookMapper.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\BookMapper.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\BookMapper.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\BookMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthorMapper.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\AuthorMapper.cs",
+              "RelativeDocumentMoniker": "Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\AuthorMapper.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\AuthorMapper.cs",
+              "RelativeToolTip": "Assigment2.PRN231.BookStoreAPI.Controler\\Mapper\\AuthorMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:44:13.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

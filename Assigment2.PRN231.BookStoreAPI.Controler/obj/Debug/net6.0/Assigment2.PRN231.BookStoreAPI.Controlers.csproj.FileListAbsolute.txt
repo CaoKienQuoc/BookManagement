@@ -1,0 +1,304 @@
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\appsettings.Development.json
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\appsettings.json
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.exe
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.deps.json
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.runtimeconfig.json
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.pdb
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.AssemblyReference.cache
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.AssemblyInfoInputs.cache
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.AssemblyInfo.cs
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.CoreCompileInputs.cache
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.MvcApplicationPartsAssemblyInfo.cs
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.MvcApplicationPartsAssemblyInfo.cache
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.Assigment2.PRN231.BookStoreAPI.Controlers.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.build.Assigment2.PRN231.BookStoreAPI.Controlers.props
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assigment2.PRN231.BookStoreAPI.Controlers.props
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assigment2.PRN231.BookStoreAPI.Controlers.props
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.build.json
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.development.json
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\scopedcss\bundle\Assigment2.PRN231.BookStoreAPI.Controlers.styles.css
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.CopyComplete
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\refint\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.pdb
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.genruntimeconfig.cache
+D:\Materials\PRN231\Code\Assigment2\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\ref\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\appsettings.Development.json
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\appsettings.json
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.exe
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.deps.json
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.runtimeconfig.json
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.pdb
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\AutoMapper.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Azure.Core.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Azure.Identity.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Repositories.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Repositories.pdb
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.AssemblyReference.cache
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.AssemblyInfoInputs.cache
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.AssemblyInfo.cs
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.CoreCompileInputs.cache
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.MvcApplicationPartsAssemblyInfo.cs
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.MvcApplicationPartsAssemblyInfo.cache
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.sourcelink.json
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.build.json
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.development.json
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.Assigment2.PRN231.BookStoreAPI.Controlers.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.build.Assigment2.PRN231.BookStoreAPI.Controlers.props
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assigment2.PRN231.BookStoreAPI.Controlers.props
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assigment2.PRN231.BookStoreAPI.Controlers.props
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\scopedcss\bundle\Assigment2.PRN231.BookStoreAPI.Controlers.styles.css
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.CopyComplete
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\refint\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.pdb
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.genruntimeconfig.cache
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\ref\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OData.Core.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Spatial.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Working Space\CN8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\appsettings.Development.json
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\appsettings.json
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.exe
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.deps.json
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.runtimeconfig.json
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.pdb
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\AutoMapper.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Azure.Core.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Azure.Identity.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OData.Core.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Spatial.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Repositories.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Repositories.pdb
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.AssemblyReference.cache
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.AssemblyInfoInputs.cache
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.AssemblyInfo.cs
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.CoreCompileInputs.cache
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.MvcApplicationPartsAssemblyInfo.cs
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.MvcApplicationPartsAssemblyInfo.cache
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.Assigment2.PRN231.BookStoreAPI.Controlers.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.build.Assigment2.PRN231.BookStoreAPI.Controlers.props
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assigment2.PRN231.BookStoreAPI.Controlers.props
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assigment2.PRN231.BookStoreAPI.Controlers.props
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.build.json
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.development.json
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\scopedcss\bundle\Assigment2.PRN231.BookStoreAPI.Controlers.styles.css
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.CopyComplete
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\refint\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.pdb
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.genruntimeconfig.cache
+D:\Materials\PRN231\Code\Assigment2\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\ref\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\appsettings.Development.json
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\appsettings.json
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.exe
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.deps.json
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.runtimeconfig.json
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.pdb
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\AutoMapper.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Azure.Core.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Azure.Identity.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.AspNetCore.OData.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OData.Core.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OData.Edm.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OData.ModelBuilder.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Spatial.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Memory.Data.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Repositories.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\bin\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Repositories.pdb
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.AssemblyReference.cache
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.AssemblyInfoInputs.cache
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.AssemblyInfo.cs
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.csproj.CoreCompileInputs.cache
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.MvcApplicationPartsAssemblyInfo.cs
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.MvcApplicationPartsAssemblyInfo.cache
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.build.json
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\staticwebassets.development.json
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\scopedcss\bundle\Assigment2.PRN231.BookStoreAPI.Controlers.styles.css
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigmen.6459BC17.Up2Date
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\refint\Assigment2.PRN231.BookStoreAPI.Controlers.dll
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.pdb
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\Assigment2.PRN231.BookStoreAPI.Controlers.genruntimeconfig.cache
+C:\D_Tools\FPT-Learn\HK8\PRN231\PRN231_Book-Store-API\Assigment2.PRN231.BookStoreAPI\Assigment2.PRN231.BookStoreAPI.Controler\obj\Debug\net6.0\ref\Assigment2.PRN231.BookStoreAPI.Controlers.dll
