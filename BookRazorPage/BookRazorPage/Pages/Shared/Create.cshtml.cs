@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BookStoreWebSite.Pages
+namespace BookRazorPage.Pages.Shared
 {
-    public class UsersModel : PageModel
+    public class CreateModel : PageModel
     {
         public void OnGet()
         {

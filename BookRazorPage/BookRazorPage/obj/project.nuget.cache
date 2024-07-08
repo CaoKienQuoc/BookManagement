@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2erFQNJodqvip18Mwntpb0mZ7FoG1E+1Tn/FWuIJ+/rC4jaGx6FTSpaQUfdPwxuytfzx56Xcj+myIflD6v1bYg==",
+  "dgSpecHash": "Dj35qJ/6zQlEGC2952Eoo4bb2FW59hBbvTrzQ3ee3BFsssQZ4SoNu/F2czHNbpblrJp0hePxUExmO3z7UBDiJg==",
   "success": true,
-  "projectFilePath": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\BookRazorPage\\BookRazorPage\\BookRazorPage.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\FPT-Learn\\HK8\\PRN231\\BookManagement\\BookRazorPage\\BookRazorPage\\BookRazorPage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC-CAOKIENQUOC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC-CAOKIENQUOC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC-CAOKIENQUOC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC-CAOKIENQUOC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -3929,19 +3929,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\caoki\\.nuget\\packages\\": {}
+    "C:\\Users\\PC-CAOKIENQUOC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj",
+      "projectUniqueName": "D:\\FPT-Learn\\HK8\\PRN231\\BookManagement\\Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj",
       "projectName": "Assigment2.PRN231.BookStoreAPI.Repositories",
-      "projectPath": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj",
-      "packagesPath": "C:\\Users\\caoki\\.nuget\\packages\\",
-      "outputPath": "C:\\D_Tools\\FPT-Learn\\HK8\\PRN231\\PRN231_Book-Store-API\\Assigment2.PRN231.BookStoreAPI\\Assigment2.PRN231.BookStoreAPI.Repository\\obj\\",
+      "projectPath": "D:\\FPT-Learn\\HK8\\PRN231\\BookManagement\\Assigment2.PRN231.BookStoreAPI.Repository\\Assigment2.PRN231.BookStoreAPI.Repositories.csproj",
+      "packagesPath": "C:\\Users\\PC-CAOKIENQUOC\\.nuget\\packages\\",
+      "outputPath": "D:\\FPT-Learn\\HK8\\PRN231\\BookManagement\\Assigment2.PRN231.BookStoreAPI.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\caoki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC-CAOKIENQUOC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3961,11 +3961,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4016,12 +4011,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.25, 6.0.25]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

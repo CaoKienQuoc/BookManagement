@@ -25,7 +25,7 @@ namespace Assigment2.PRN231.BookStoreAPI.Controler
                 options.AddPolicy("AllowSpecificOrigin",
                     builder =>
                     {
-                        builder.WithOrigins("https://localhost:7261") // Thay ??i thành origin c?a ?ng d?ng Razor Pages c?a b?n
+                        builder.WithOrigins("http://localhost:5254") // Thay ??i thành origin c?a ?ng d?ng Razor Pages c?a b?n
                                .AllowAnyMethod()
                                .AllowAnyHeader();
                     });

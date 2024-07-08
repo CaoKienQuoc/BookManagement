@@ -9,22 +9,11 @@ namespace BookStoreWebSite
             // Add services to the container.
             builder.Services.AddRazorPages();
 
-            // Add CORS policy
-            builder.Services.AddCors(options =>
-            {
-                options.AddPolicy("AllowAllOrigins",
-                    builder =>
-                    {
-                        builder.AllowAnyOrigin()
-                               .AllowAnyMethod()
-                               .AllowAnyHeader();
-                    });
-            });
-
             builder.Services.AddRazorPages().AddRazorPagesOptions(options =>
             {
                 options.Conventions.AddPageRoute("/Books", "");
             });
+
 
             var app = builder.Build();
 
@@ -41,9 +30,6 @@ namespace BookStoreWebSite
             app.UseStaticFiles();
 
             app.UseRouting();
-
-            // Use CORS policy
-            app.UseCors("AllowAllOrigins");
 
             app.UseAuthorization();
 
